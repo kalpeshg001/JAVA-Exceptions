@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: kalpeshg001
+Build-Jdk: 11.0.4
+Implementation-Title: java230
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.ipiecoles.java
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/java230
+Created-By: Maven Integration for Eclipse
+
